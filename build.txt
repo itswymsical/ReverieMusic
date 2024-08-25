@@ -1,0 +1,4 @@
+displayName = [c/73d5ff:Reverie Mod Music]
+author = wymsical, ElectroManiac
+version = 0.1
+includeSource = true
